@@ -1,0 +1,5 @@
+string = input("Enter numbers : ")
+string = string.replace("1", "uno")
+string = string.replace("2", "two")
+string = string.replace("3", "")
+print(string)
